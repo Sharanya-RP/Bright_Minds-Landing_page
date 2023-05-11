@@ -1,4 +1,4 @@
 ## Bright Minds Landing page
-### Level 1-Task 1(Oasis Infobyte Internship)
+### Level 1-Task 1 (Oasis Infobyte Internship)
 #### A landing webpage for an academy.
 #### This page contains the courses offered by the academy,facilities offered for the students and few reviews by the students.
